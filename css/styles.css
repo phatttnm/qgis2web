@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(211, 193, 170);
+}
+p{
+    color: rgb(93, 75, 50);
+}
+h1{
+    color: #6a4e31;
+}
+h3{
+    color: #6a4e31;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-color:antiquewhite;
+    border-width: 5px;
+    width: 70%;
+}
+h2{
+    color: #4b3823;
+}
+img{
+    background-color: rgb(150, 9, 168);
+}
+.mushroom{
+    background-color: #2720af;
+}
+.circular{
+    border-radius: 100%;
+}
+.corn{
+    background-color: #b00707;
+}
+#heading{
+    color: rgb(88, 71, 57);
+    font-style: italic;
+}
+.tomato{
+    background-color: #2720af;
+}
